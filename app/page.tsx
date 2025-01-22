@@ -1,5 +1,6 @@
 export default function Home() {
   return (
-    <div>e-commerce</div>
+    <div>e-comasdasdasdasdmerce1</div>
+    
   );
 }
