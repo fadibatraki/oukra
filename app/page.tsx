@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div>follow me</div>
+    <div>follow Fadi</div>
     
   );
 }
